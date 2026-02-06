@@ -6,6 +6,8 @@ import {
   FaLinkedin,
   FaGithub,
 } from "react-icons/fa"
+import { motion } from "motion/react";
+
 
 const Contact = () => {
   return (

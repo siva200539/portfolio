@@ -1,4 +1,5 @@
 import { FaGithub, FaExternalLinkAlt } from "react-icons/fa";
+import { motion } from "motion/react";
 
 const projectsData = [
   {

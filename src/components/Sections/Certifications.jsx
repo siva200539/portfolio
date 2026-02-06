@@ -1,4 +1,5 @@
 import { FaCertificate } from "react-icons/fa";
+import { motion } from "motion/react";
 
 export default function Certifications() {
   const certifications = [

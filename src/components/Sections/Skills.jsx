@@ -1,5 +1,5 @@
 import { Card, CardContent } from "@/components/ui/card"
-import {  color, motion } from "framer-motion"
+import { motion } from "motion/react";
 import {
   FaHtml5,
   FaCss3Alt,

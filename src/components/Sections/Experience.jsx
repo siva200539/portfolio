@@ -1,3 +1,4 @@
+import { motion } from "motion/react";
 import { FaBuilding } from "react-icons/fa";
 
 export default function Experience() {
