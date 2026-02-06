@@ -2,7 +2,7 @@ import { useEffect, useRef } from "react";
 import { Button } from "@/components/ui/button";
 import gsap from "gsap";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
-import profile from "./pic.jpeg";
+import profile from "./mypic.jpeg";
 
 const Hero = () => {
   const heroRef = useRef(null);

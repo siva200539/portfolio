@@ -4,7 +4,7 @@ import { FaCertificate } from "react-icons/fa";
 export default function Certifications() {
   const certifications = [
     {
-      title: "Google Cloud Computing Foundations ",
+      title: "Google Cloud Computing Foundations[ELITE SILVER GAREDE]",
       platform: "NPTEL",
       year: "2025",
     },
