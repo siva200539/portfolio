@@ -3,7 +3,7 @@ import { FaBuilding } from "react-icons/fa";
 
 export default function Experience() {
   return (
-    <div className="page-content px-10 py-20 text-white">
+    <div className="page-content px-10 py-20 text-white " id="experience">
       {/* Heading */}
       <motion.h2
         initial={{ opacity: 0, y: -40 }}
@@ -44,7 +44,7 @@ export default function Experience() {
 
         {/* Projects Count Section */}
         <h4 className="text-xl font-semibold mb-6">
-          🚀 Projects Completed
+           Projects Completed
         </h4>
 
         {/* Small Count Cards */}

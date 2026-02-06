@@ -7,7 +7,7 @@ const projectsData = [
     description:
       "A modern personal portfolio built with React, Tailwind, and animations.",
     tech: ["React", "Tailwind", "Framer Motion"],
-    github: "https://github.com/",
+    github: "https://github.com/siva200539/portfolio",
     live: "https://yourwebsite.com/",
   },
   {
@@ -15,7 +15,7 @@ const projectsData = [
     description:
       "Full hotel management with cart, login, payments, and order page the orders are stored on mogodb.",
     tech: ["React", "Redux", "Node.js","mongodb"],
-    github: "https://github.com/",
+    github: "https://github.com/siva200539/Siva-foods",
     live: "https://yourwebsite.com/",
   },
   {
@@ -23,7 +23,7 @@ const projectsData = [
     description:
       "Full website based on detection and segmentation of the predting stage cancer",
     tech: ["Python","React"],
-    github: "https://github.com/",
+    github: "https://github.com/siva200539/Breast-cancer-detection",
     live: "https://yourwebsite.com/",
   },
 ];

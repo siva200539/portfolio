@@ -26,7 +26,7 @@ export default function Certifications() {
   ];
 
   return (
-    <div className="page-content px-10 py-20 text-white">
+    <div className="page-content px-10 py-20 text-white" id="certificate">
       {/* Heading */}
       <motion.h2
         initial={{ opacity: 0, y: -40 }}

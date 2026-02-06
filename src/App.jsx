@@ -1,18 +1,20 @@
-import React from 'react';
-//import StarBackground from './components/StartBackground';
-import Home  from '../src/pages/Home';
-import {Routes,Route} from "react-router-dom";
-import NavBar from './components/NavBar';
+import React from "react";
+import { Routes, Route } from "react-router-dom";
+
+import NavBar from "./components/NavBar";
+import SpaceBackground from "./components/StartBackground";
+import Home from "./pages/Home";
+
 const App = () => {
   return (
-    <div>
-      
-      <NavBar></NavBar>
-      <Routes>
-        <Route path='/' element={<Home/>}></Route>
-      </Routes>
-    </div>
-  )
-}
+    <SpaceBackground>
+      <NavBar />
 
-export default App
+      <Routes>
+        <Route path="/" element={<Home />} />
+      </Routes>
+    </SpaceBackground>
+  );
+};
+
+export default App;

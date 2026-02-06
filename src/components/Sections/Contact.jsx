@@ -63,13 +63,7 @@ const Contact = () => {
           </Card>
         </motion.div>
       </div>
-       <Card className="bg-black border border-white/30 hover:scale-105 transition mt-10 h-[400px] w-[600px]">
-            <CardContent className="flex items-center gap-4 p-6">
-              <Card className="bg-amber-50 h-[50px] w-[800px]">
-
-              </Card>
-            </CardContent>
-          </Card>
+       
 
       <motion.div
         initial={{ opacity: 0, y: 30 }}
