@@ -2,10 +2,15 @@
 export default {
   content: [
     "./index.html",
-    "./src/**/*.{js,ts,jsx,tsx}",
+    "./src/**/*.{js,jsx,ts,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+       fontSize: {
+        'huge': '5rem', // you can use text-huge
+        'gigantic': '8rem',
+      },
+    },
   },
   plugins: [],
-}
+};
