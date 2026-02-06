@@ -1,4 +1,3 @@
-import { motion } from "framer-motion";
 import { FaBuilding } from "react-icons/fa";
 
 export default function Experience() {

@@ -1,4 +1,3 @@
-import { motion } from "framer-motion";
 import { FaCertificate } from "react-icons/fa";
 
 export default function Certifications() {
